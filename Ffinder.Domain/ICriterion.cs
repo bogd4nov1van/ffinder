@@ -1,6 +1,6 @@
 using System.IO;
 
-namespace ffinder.Infrastructure
+namespace Ffinder.Domain
 {
     public interface ICriterion
     {

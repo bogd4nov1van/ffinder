@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Threading.Tasks;
 
-namespace ffinder.Infrastructure
+namespace Ffinder.Domain
 {
     public interface IFinder
     {

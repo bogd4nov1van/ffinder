@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.ObjectModel;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Text.RegularExpressions;
-using ffinder;
-using ffinder.Infrastructure;
-using finder.Plugins.ContainsFileName;
 using System.Collections.Generic;
-using ffinder.Repository;
+using System.Collections.ObjectModel;
+using Ffinder.Domain;
 
-namespace ffinder_console
+namespace Ffinder.Console
 {
     
     class Program

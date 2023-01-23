@@ -1,7 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
+  <ItemGroup>
+    <ProjectReference Include="..\Ffinder.Domain\Ffinder.Domain.csproj" />
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <AssemblyName>Ffinder.Domain</AssemblyName>
   </PropertyGroup>
 </Project>

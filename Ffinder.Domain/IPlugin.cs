@@ -1,7 +1,6 @@
 using System.Collections.Generic;
-using System.IO;
 
-namespace ffinder.Infrastructure
+namespace Ffinder.Domain
 {
     public interface IPlugin : ICriterion
     {

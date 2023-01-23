@@ -1,4 +1,4 @@
-namespace ffinder.Infrastructure
+namespace Ffinder.Domain
 {
     public enum FileTypes
     {

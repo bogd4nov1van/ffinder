@@ -1,7 +1,8 @@
 using System;
 using System.IO;
+using Ffinder.Domain;
 
-namespace Ffinder.Domain.Extensions
+namespace Ffinder.Application
 {
     public static class FileInfoExtensions
     {
@@ -9,7 +10,7 @@ namespace Ffinder.Domain.Extensions
         {
             if (fileInfo == null)
             {
-                throw new ArgumentNullException(nameof(fileInfo));
+                throw new System.ArgumentNullException(nameof(fileInfo));
             }
 
             var extension = Path.GetExtension(fileInfo.FullName);

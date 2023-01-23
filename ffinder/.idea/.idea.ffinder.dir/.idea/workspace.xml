@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ce1b245-b82f-46be-8fb5-529e37abd3ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ffinder-console/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Console/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ffinder-console/ffinder-console.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Console/Ffinder.Console.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ffinder-infrastructure/Extensions/FileInfoExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Domain/Extensions/FileInfoExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ffinder-infrastructure/FileTypes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Domain/FileTypes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ffinder-infrastructure/ICriterion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Domain/ICriterion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ffinder-infrastructure/IFinder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Domain/IFinder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ffinder-infrastructure/IPlugin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Domain/IPlugin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ffinder-infrastructure/PluginBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Domain/PluginBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ffinder-infrastructure/ffinder-infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.Domain/Ffinder.Domain.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Criterions/FileTypeCriterion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.App/Criterions/FileTypeCriterion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/FileInfoExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.App/Extensions/FileInfoExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Finder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.App/Finder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/FolderRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.App/Repository/FolderRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/IPluginRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.App/Repository/IPluginRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository/IPluginValueRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.App/Repository/IPluginValueRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkWlof.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.App/WorkWlof.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ffinder.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Ffinder.App/Ffinder.App.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finder-plugins/ContainsFileNamePlugin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finder-plugins/EqualsFileTypePlugin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finder-plugins/finder-plugins.csproj" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Ffinder.App/Finder.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Kjieo4pE4YW2kToBqQ35NLaTCP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ce1b245-b82f-46be-8fb5-529e37abd3ec" name="Changes" comment="" />
+      <created>1674494492023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674494492023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

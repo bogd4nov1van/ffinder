@@ -1,13 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\ffinder\ffinder.csproj" />
     <ProjectReference Include="..\Ffinder.Domain\Ffinder.Domain.csproj" />
-    <ProjectReference Include="..\finder-plugins\finder-plugins.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <RootNamespace>Ffinder.Plugins</RootNamespace>
+    <AssemblyName>Ffinder.Plugins</AssemblyName>
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
